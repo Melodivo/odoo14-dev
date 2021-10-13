@@ -1,0 +1,3 @@
+[submodule "core14"]
+	path = core14
+	url = git@github.com:odoo/odoo.git
