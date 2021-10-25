@@ -1,0 +1,10 @@
+{
+   "python.pythonPath": "venv/bin/python",
+   "python.linting.flake8Enabled": true,
+   "python.linting.pylintEnabled": true,
+   "python.linting.mypyEnabled": false,
+   "python.linting.enabled": true,
+   "python.linting.pylintPath": "/venv/bin/pylint",
+   // "python.linter": "/opt/odoodev/odoo14/.pylintrc",
+      
+}
